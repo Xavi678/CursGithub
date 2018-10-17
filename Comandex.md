@@ -47,3 +47,19 @@ Afegim el nostre logo al CSS i després fem el commit dient que l'hem afegit
 ![](/imatges/16.PNG)
 
 ![](/imatges/17.PNG)
+
+Afegim codi CSS al section, després fem el commit, afegim codi CSS del footer, fem el commit del footer, i tornem a afegir codi del H1 i enllaços per deprés fer un commit i al acabar un push
+
+![](/imatges/18.PNG)
+
+![](/imatges/19.PNG)
+
+![](/imatges/20.PNG)
+
+![](/imatges/21.PNG)
+
+![](/imatges/22.PNG)
+
+![](/imatges/23.PNG)
+
+![](/imatges/24.PNG)
