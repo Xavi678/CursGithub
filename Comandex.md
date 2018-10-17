@@ -1,0 +1,49 @@
+# Comandes Pràctica GitHub
+
+Creem el repositori l'inicialitzem amb git init i després creem el fitxer index.html
+
+![](/imatges/1.PNG)
+
+Després dins de l'index hi posem el codi html, fem un commit i després li afegim més codi al head
+
+![](/imatges/2.PNG)
+
+![](/imatges/3.PNG)
+
+![](/imatges/4.PNG)
+
+Creem un altre commit per afegir el heading, li afegim contingut al body i tornem a fer un commit pel codi afegit al body
+
+![](/imatges/5.PNG)
+
+![](/imatges/6.PNG)
+
+![](/imatges/7.PNG)
+
+Després crearem el nostre Repositori remot i pujarem el fitxer
+
+![](/imatges/8.PNG)
+
+![](/imatges/9.PNG)
+
+Afegim un article entre section, i fem un commit
+
+![](/imatges/10.PNG)
+
+![](/imatges/11.PNG)
+
+Creem un arxiu CSS i li codi del html i body, i fem el commit, després li tornem a afegir més codi d'HTML5
+
+![](/imatges/12.PNG)
+
+![](/imatges/13.PNG)
+
+![](/imatges/14.PNG)
+
+![](/imatges/15.PNG)
+
+Afegim el nostre logo al CSS i després fem el commit dient que l'hem afegit
+
+![](/imatges/16.PNG)
+
+![](/imatges/17.PNG)
