@@ -63,3 +63,39 @@ Afegim codi CSS al section, després fem el commit, afegim codi CSS del footer, 
 ![](/imatges/23.PNG)
 
 ![](/imatges/24.PNG)
+
+Creem l'etiqueta v0.1 i després creem una nova branca i ens hi posem, creem un directori d'imatges i posem allà la imatge (Jo ja ho tenia fet)
+
+![](/imatges/25.PNG)
+
+![](/imatges/26.PNG)
+
+![](/imatges/27.PNG)
+
+Posem el fitxer .css en un directori css i fem el commit indicant-ho
+
+![](/imatges/28.PNG)
+
+![](/imatges/29.PNG)
+
+Canviem la referencia del css a css/style.CSS, i fel commit indicant els canvis de referencies
+
+![](/imatges/30.PNG)
+
+![](/imatges/31.PNG)
+
+Fem el push i comprovem que tot estigui correcte al nostre repositor
+
+![](/imatges/32.PNG)
+
+![](/imatges/33.PNG)
+
+Creem una branca a partir de la master anomenada bugfix, descomentem els borders i fem el commit indicant els canvis
+
+![](/imatges/34.PNG)
+
+![](/imatges/35.PNG)
+
+Introduim el titol i fem el commit
+
+![](/imatges/36.PNG)
